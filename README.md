@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="Mohamed Fouad Rabahi: Systems & Networks Engineer · IoT & Robotics · Machine Learning" width="100%">
+  <img src="assets/banner.svg" alt="Mohamed Fouad Rabahi: Software Engineer · Systems & Networks Engineer · IoT & Robotics · Machine Learning" width="100%">
 </div>
 
 <p align="center">
