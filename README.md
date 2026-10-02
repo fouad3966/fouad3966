@@ -58,42 +58,22 @@ flowchart LR
 <table>
 <tr>
 <td width="50%" align="center">
-  <a href="https://github.com/fouad3966/5G-SliceGuard"><img src="assets/c-5g.svg" alt="5G SliceGuard"></a><br>
-  <a href="https://fouad3966.github.io/5G-SliceGuard/"><img src="https://img.shields.io/badge/Live_Demo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Live Demo"></a>
-</td>
-<td width="50%" align="center">
-  <a href="https://github.com/fouad3966/IoT-Network-Anomaly-Detection"><img src="assets/c-iot.svg" alt="IoT Network Anomaly Detection"></a><br>
-  <a href="https://github.com/fouad3966/IoT-Network-Anomaly-Detection"><img src="https://img.shields.io/badge/Source_Code-2b3137?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"></a>
-</td>
-</tr>
-<tr>
-<td align="center">
-  <a href="https://github.com/fouad3966/Intelligent_Agent_for_Natural_Language_Database_Querying"><img src="assets/c-nl2sql.svg" alt="Natural-Language DB Agent"></a><br>
-  <a href="https://intelligent-agent-for-natural-langu.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"></a>
-</td>
-<td align="center">
-  <a href="https://github.com/fouad3966/ML-pipeline-to-detect-fraudulent-credit-card-transactions"><img src="assets/c-fraud.svg" alt="Fraud Detection Pipeline"></a><br>
-  <a href="https://credit-card-fraud-detect-9vsoerj.gamma.site/"><img src="https://img.shields.io/badge/Live_Demo-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"></a>
-</td>
-</tr>
-<tr>
-<td align="center">
-  <a href="https://github.com/fouad3966/Bearing_Simulation_PFE"><img src="assets/c-bearing.svg" alt="Bearing Simulation"></a><br>
-  <a href="https://bearing-simulation-pfe.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Live Demo"></a>
-</td>
-<td align="center">
   <a href="https://github.com/fouad3966/HeurSup"><img src="assets/c-heursup.svg" alt="HeurSup"></a><br>
   <a href="https://heur-sup.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"></a>
 </td>
-</tr>
-<tr>
-<td align="center">
+<td width="50%" align="center">
   <a href="https://github.com/fouad3966/apex-athletics"><img src="assets/c-apex.svg" alt="Apex Athletics"></a><br>
   <a href="https://fouad3966.github.io/apex-athletics"><img src="https://img.shields.io/badge/Live_Demo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Live Demo"></a>
 </td>
+</tr>
+<tr>
 <td align="center">
   <a href="https://github.com/fouad3966/Ecom_Luxecart"><img src="assets/c-luxecart.svg" alt="LuxeCart"></a><br>
   <a href="https://ecom-luxecart.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"></a>
+</td>
+<td align="center">
+  <a href="https://github.com/fouad3966/5G-SliceGuard"><img src="assets/c-5g.svg" alt="5G SliceGuard"></a><br>
+  <a href="https://fouad3966.github.io/5G-SliceGuard/"><img src="https://img.shields.io/badge/Live_Demo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Live Demo"></a>
 </td>
 </tr>
 <tr>
@@ -104,6 +84,26 @@ flowchart LR
 <td align="center">
   <a href="https://digitmake.net/"><img src="assets/c-digitmake.svg" alt="DigitMake"></a><br>
   <a href="https://digitmake.net/"><img src="https://img.shields.io/badge/Live_Demo-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"></a>
+</td>
+</tr>
+<tr>
+<td align="center">
+  <a href="https://github.com/fouad3966/Bearing_Simulation_PFE"><img src="assets/c-bearing.svg" alt="Bearing Simulation"></a><br>
+  <a href="https://bearing-simulation-pfe.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Live Demo"></a>
+</td>
+<td align="center">
+  <a href="https://github.com/fouad3966/ML-pipeline-to-detect-fraudulent-credit-card-transactions"><img src="assets/c-fraud.svg" alt="Fraud Detection Pipeline"></a><br>
+  <a href="https://credit-card-fraud-detect-9vsoerj.gamma.site/"><img src="https://img.shields.io/badge/Live_Demo-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"></a>
+</td>
+</tr>
+<tr>
+<td align="center">
+  <a href="https://github.com/fouad3966/Intelligent_Agent_for_Natural_Language_Database_Querying"><img src="assets/c-nl2sql.svg" alt="Natural-Language DB Agent"></a><br>
+  <a href="https://intelligent-agent-for-natural-langu.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"></a>
+</td>
+<td align="center">
+  <a href="https://github.com/fouad3966/project-multimedia---QR-codes"><img src="assets/c-qrcode.svg" alt="QR Code Generator"></a><br>
+  <a href="https://fouad3966.github.io/project-multimedia---QR-codes/"><img src="https://img.shields.io/badge/Live_Demo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Live Demo"></a>
 </td>
 </tr>
 </table>
@@ -117,7 +117,7 @@ flowchart LR
 - [`Housing-Price-Prediction`](https://github.com/fouad3966/Housing-Price-Prediction): tuned Random Forest
 - [`gtc-ml-project1-hotel-bookings`](https://github.com/fouad3966/gtc-ml-project1-hotel-bookings): cleaning, feature engineering, preprocessing pipeline
 - [`DA-Churn-Prediction-for-StreamWorks-Media`](https://github.com/fouad3966/DA-Churn-Prediction-for-StreamWorks-Media) · [`DA-Business-Intelligence-Dashboard-for-TechHub-Retail`](https://github.com/fouad3966/DA-Business-Intelligence-Dashboard-for-TechHub-Retail) · [`DA-green-cart-sales-customer-insights`](https://github.com/fouad3966/DA-green-cart-sales-customer-insights) · [`DA-customer-signup-analysis`](https://github.com/fouad3966/DA-customer-signup-analysis)
-- [`project-multimedia---QR-codes`](https://github.com/fouad3966/project-multimedia---QR-codes): customizable QR code generator — [**🚀 Live Demo**](https://fouad3966.github.io/project-multimedia---QR-codes/)
+- [`IoT-Network-Anomaly-Detection`](https://github.com/fouad3966/IoT-Network-Anomaly-Detection): ML models for detecting anomalies in IoT networks
 - [`2CS_S2_Modules_Revision`](https://github.com/fouad3966/2CS_S2_Modules_Revision): revision guides for fellow students
 
 </details>
@@ -140,8 +140,8 @@ flowchart LR
 <td><img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,cassandra,oracle&theme=dark" alt="PostgreSQL, MongoDB, SQLite, Cassandra, Oracle"></td>
 </tr>
 <tr>
-<td><b>AI & data</b></td>
-<td><img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,opencv,powerbi&theme=dark" alt="Pandas, NumPy, scikit-learn, OpenCV, Power BI"><br><sub><code>XGBoost</code> <code>Streamlit</code> <code>Matplotlib</code> <code>Google Colab</code> <code>feature engineering</code></sub></td>
+<td><b>AI & data science</b></td>
+<td><img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,opencv,powerbi,tensorflow,pytorch,hadoop,kafka&theme=dark" alt="Pandas, NumPy, scikit-learn, OpenCV, Power BI, TensorFlow, PyTorch, Hadoop, Kafka"><br><sub><code>XGBoost</code> <code>Big Data</code> <code>Streamlit</code> <code>Matplotlib</code> <code>Google Colab</code> <code>feature engineering</code></sub></td>
 </tr>
 <tr>
 <td><b>Tools & OS</b></td>
