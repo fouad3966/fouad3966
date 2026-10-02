@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="860" height="44" viewBox="0 0 860 44" role="img" aria-label="STACK">
+<text x="0" y="29" font-family="'SF Mono','Fira Code',Consolas,'Liberation Mono',monospace" font-size="14" fill="#34d399">[03]</text>
+<text x="46" y="30" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="22" font-weight="800" letter-spacing="2" fill="#7fa6d6">STACK</text>
+<path id="r" d="M145 22 H852" stroke="#1f3556" stroke-width="2" stroke-dasharray="2 6" stroke-linecap="round"/>
+<circle cx="852" cy="22" r="5" fill="#0f1c33" stroke="#2f7fd1" stroke-width="2"/>
+<circle r="3.5" fill="#fbbf24"><animateMotion dur="3.2s" repeatCount="indefinite" path="M145 22 H852"/></circle></svg>
