@@ -1,18 +1,19 @@
 <div align="center">
-
-# Mohamed Fouad Rabahi
-
-**I connect things: networks, sensors, robots, and models.**
-<br>
-Final-year Systems & Networks engineering student · ESI-SBA, Algeria 🇩🇿 · Exchange alumnus, University of Montevallo 🇺🇸
-
-<br>
-
-`Arabic` · `English` · `Français`
-
+  <img src="assets/banner.svg" alt="Mohamed Fouad Rabahi: Systems & Networks Engineer · IoT & Robotics · Machine Learning" width="100%">
 </div>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/ESI--SBA-Engineering_Student-2f7fd1?style=for-the-badge" alt="ESI-SBA">
+  <img src="https://img.shields.io/badge/UGRAD-Montevallo_·_GPA_3.75-34d399?style=for-the-badge" alt="UGRAD Montevallo">
+  <img src="https://img.shields.io/badge/Languages-AR_·_EN_·_FR-fbbf24?style=for-the-badge" alt="Languages">
+</p>
+
+<p align="center"><i>I connect things: networks, sensors, robots, and models.<br>
+Final-year engineering student in Algeria 🇩🇿, with a semester of US campus life 🇺🇸 behind me.</i></p>
+
 <br>
+
+<img src="assets/h-01.svg" alt="01 Traceroute" width="100%">
 
 ```text
 $ traceroute --story fouad
@@ -29,14 +30,18 @@ $ traceroute --story fouad
   8   Smart-Assistive-Home-System · 2026        Lead dev & architect: home + robot + digital twin
   9   → you are here                            open to internships, engineering roles, and projects
 
- trace complete. destination reachable. latency to a good conversation: low.
+ trace complete. destination reachable.
 ```
 
 <br>
 
-## 🏠 Featured project: Smart-Assistive-Home-System
+<img src="assets/h-02.svg" alt="02 Projects" width="100%">
 
-A smart home that **talks, sees without cameras, and fetches things for you**. I led the design and architecture of a four-person capstone that joins a home-automation platform with an assistive robot.
+<a href="https://github.com/fouad3966/Smart-Assistive-Home-System"><img src="assets/c-home.svg" alt="Smart-Assistive-Home-System" width="100%"></a>
+
+<details>
+<summary><b>How the capstone fits together</b> (architecture)</summary>
+<br>
 
 ```mermaid
 flowchart LR
@@ -48,71 +53,98 @@ flowchart LR
     R["🤖 Robot · Raspberry Pi 3<br/>SLAM · OpenCV HSV detection<br/>servo-kinematics arm"]
 ```
 
-- **Camera-free surveillance** and **indoor localization** driven by an ML engine
-- **Autonomous robot**: SLAM navigation, HSV object detection, full item-retrieval pipeline with a custom robotic arm
-- **Backend**: microservices over MQTT, JWT auth; **mobile app** in Flutter; **3D digital twin** for real-time monitoring
+</details>
 
-<sub>Stack: NestJS · MongoDB · MQTT · Flutter · Raspberry Pi · OpenCV · Python · n8n</sub>
-
-<br>
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/fouad3966/5G-SliceGuard"><img src="assets/c-5g.svg" alt="5G SliceGuard"></a></td>
+<td width="50%"><a href="https://github.com/fouad3966/IoT-Network-Anomaly-Detection"><img src="assets/c-iot.svg" alt="IoT Network Anomaly Detection"></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/fouad3966/Intelligent_Agent_for_Natural_Language_Database_Querying"><img src="assets/c-nl2sql.svg" alt="Natural-Language DB Agent"></a></td>
+<td><a href="https://github.com/fouad3966/ML-pipeline-to-detect-fraudulent-credit-card-transactions"><img src="assets/c-fraud.svg" alt="Fraud Detection Pipeline"></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/fouad3966/Bearing_Simulation_PFE"><img src="assets/c-bearing.svg" alt="Bearing Simulation"></a></td>
+<td><a href="https://github.com/fouad3966/HeurSup"><img src="assets/c-heursup.svg" alt="HeurSup"></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/fouad3966/apex-athletics"><img src="assets/c-apex.svg" alt="Apex Athletics"></a></td>
+<td><a href="https://github.com/fouad3966/Ecom_Luxecart"><img src="assets/c-luxecart.svg" alt="LuxeCart"></a></td>
+</tr>
+</table>
 
 <details>
-<summary><b>🛡 Credit Card Fraud Detection</b> · XGBoost · 96.2% accuracy · 1.8M+ records</summary>
+<summary><b>More experiments</b> · data analytics, ML notebooks, networking labs</summary>
 <br>
 
-Built during a 60-hour certified ML track at the Generative Technology Center: data wrangling, EDA, model training, then deployment as a **Streamlit** app on real-world data.
+- [`TCP-Client-Server`](https://github.com/fouad3966/TCP-Client-Server): Python sockets with a Gradio interface
+- [`diabetes-ml-prediction`](https://github.com/fouad3966/diabetes-ml-prediction): Logistic Regression, Random Forest, SVM with GridSearchCV
+- [`Housing-Price-Prediction`](https://github.com/fouad3966/Housing-Price-Prediction): tuned Random Forest
+- [`gtc-ml-project1-hotel-bookings`](https://github.com/fouad3966/gtc-ml-project1-hotel-bookings): cleaning, feature engineering, preprocessing pipeline
+- [`DA-Churn-Prediction-for-StreamWorks-Media`](https://github.com/fouad3966/DA-Churn-Prediction-for-StreamWorks-Media) · [`DA-Business-Intelligence-Dashboard-for-TechHub-Retail`](https://github.com/fouad3966/DA-Business-Intelligence-Dashboard-for-TechHub-Retail) · [`DA-green-cart-sales-customer-insights`](https://github.com/fouad3966/DA-green-cart-sales-customer-insights) · [`DA-customer-signup-analysis`](https://github.com/fouad3966/DA-customer-signup-analysis)
+- [`project-multimedia---QR-codes`](https://github.com/fouad3966/project-multimedia---QR-codes): customizable QR code generator
+- [`2CS_S2_Modules_Revision`](https://github.com/fouad3966/2CS_S2_Modules_Revision): revision guides for fellow students
 
 </details>
 
-<details>
-<summary><b>🎓 HeurSup</b> · full-stack professor management platform</summary>
 <br>
 
-React + Express.js + Prisma. Role-based dashboards and automated overtime calculations on the backend.
+<img src="assets/h-03.svg" alt="03 Stack" width="100%">
 
-</details>
+<table>
+<tr>
+<td width="170"><b>Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=py,java,c,js,ts,html,css&theme=dark" alt="Python, Java, C, JavaScript, TypeScript, HTML, CSS"></td>
+</tr>
+<tr>
+<td><b>Web & backend</b></td>
+<td><img src="https://skillicons.dev/icons?i=react,nodejs,express,nestjs,prisma,flask,flutter&theme=dark" alt="React, Node.js, Express, NestJS, Prisma, Flask, Flutter"></td>
+</tr>
+<tr>
+<td><b>Databases</b></td>
+<td><img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,cassandra,oracle&theme=dark" alt="PostgreSQL, MongoDB, SQLite, Cassandra, Oracle"></td>
+</tr>
+<tr>
+<td><b>AI & data</b></td>
+<td><img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,opencv,powerbi&theme=dark" alt="Pandas, NumPy, scikit-learn, OpenCV, Power BI"><br><sub><code>XGBoost</code> <code>Streamlit</code> <code>Matplotlib</code> <code>Google Colab</code> <code>feature engineering</code></sub></td>
+</tr>
+<tr>
+<td><b>Tools & OS</b></td>
+<td><img src="https://skillicons.dev/icons?i=linux,docker,git,github,raspberrypi,bash&theme=dark" alt="Linux, Docker, Git, GitHub, Raspberry Pi, Bash"></td>
+</tr>
+<tr>
+<td><b>Networking</b></td>
+<td><code>OSPF</code> <code>EIGRP</code> <code>RIP</code> <code>VLAN</code> <code>NAT/PAT</code> <code>IPv4/IPv6</code> <code>VPN</code> <code>QoS/QoE</code> <code>MQTT</code> <code>REST</code><br><code>Cisco Packet Tracer</code> <code>GNS3</code> <code>Wireshark</code> <code>FTTH</code> <code>MSAN</code> <code>OTDR</code></td>
+</tr>
+<tr>
+<td><b>Design & media</b></td>
+<td><img src="https://skillicons.dev/icons?i=figma,ai,pr,ae&theme=dark" alt="Figma, Illustrator, Premiere Pro, After Effects"></td>
+</tr>
+<tr>
+<td><b>People skills</b></td>
+<td>Leadership · public speaking · event organization · cross-cultural teamwork</td>
+</tr>
+</table>
 
-<details>
-<summary><b>🦾 Raspberry Pi robotic arm controller</b> · Flask + pigpio</summary>
 <br>
 
-Browser-based control of shoulder, elbow, and gripper servos from a Raspberry Pi.
-
-</details>
-
-<br>
-
-## 🧰 Stack, by OSI layer
-
-I started in the cables and worked my way up, which is why I like systems that span the whole stack.
-
-| Layer | What I work with |
-|:--|:--|
-| **L1–L2 · Physical & link** | Fiber (FTTH, OTDR diagnostics), copper-to-fiber migration, VLANs |
-| **L3–L4 · Network & transport** | IPv4/IPv6, NAT/PAT, RIP · OSPF · EIGRP, VPN, QoS/QoE · Cisco Packet Tracer, GNS3, Wireshark |
-| **L5–L6 · Session & data** | MQTT, REST, JWT · PostgreSQL, MongoDB, Cassandra, Oracle |
-| **L7 · Application** | Python, Java, C, SQL, JavaScript · React, NestJS, Express, Prisma, Flutter, Docker, Linux |
-| **L8 · The humans** | Leadership, public speaking, video production (Premiere, After Effects), Figma |
-| **Beyond the stack** | Pandas, NumPy, XGBoost, Streamlit, Power BI, OpenCV |
-
-<br>
-
-## 🏅 Field notes
+<img src="assets/h-04.svg" alt="04 Field notes" width="100%">
 
 - 🤖 **Finalist**, First Global Robotics Competition, Switzerland (2022)
 - 🥉 **Bronze**, Grand Challenge Award, Team Algeria (2020)
 - 🥈 **Silver**, National Mathematics Olympiad (2021)
-- 🎬 Video lead at Alphabit Club, so my demos come with decent editing
+- 🎤 **VP, Google Developers Student Club ESI-SBA**: 4 events, 200+ participants, membership up ~15%
+- 🎬 **Video lead, Alphabit Club**: so my demos come with decent editing
+- 🌍 **Global programs**: UGRAD, Algerian Youth Leadership Program, The Experiment Digital, Tatawwar, Dialogue Leaders
 
 <br>
 
-<div align="center">
+<img src="assets/h-05.svg" alt="05 Connect" width="100%">
 
-### Let's connect something
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-fouad-rabahi-3b211a1b5/"><img src="https://img.shields.io/badge/LinkedIn-Mohamed_Fouad_Rabahi-2f7fd1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:Mouhamed.fouad44@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-34d399?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Fouad_Rabahi-005293?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-fouad-rabahi-3b211a1b5/)
-[![Email](https://img.shields.io/badge/Email-Mouhamed.fouad44%40gmail.com-005293?style=flat-square&logo=gmail&logoColor=white)](mailto:Mouhamed.fouad44@gmail.com)
-
-<sub>`ping fouad` → reply guaranteed 📡</sub>
-
-</div>
+<p align="center"><sub><code>$ ping fouad</code> → 64 bytes, reply guaranteed 📡</sub></p>
