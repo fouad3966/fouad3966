@@ -108,6 +108,23 @@ flowchart LR
 </tr>
 </table>
 
+<br>
+
+<details open>
+<summary><b>Visual Showcase</b> · high-fidelity app mockups</summary>
+<br>
+
+<p align="center">
+  <img src="assets/mockup_Digitmake.png" alt="Digitmake" width="49%">
+  <img src="assets/mockup_Luxecart.png" alt="LuxeCart" width="49%">
+</p>
+<p align="center">
+  <img src="assets/mockup_Apex_athletics.png" alt="Apex Athletics" width="49%">
+  <img src="assets/mockup_Bearing_simulation.png" alt="Bearing Simulation" width="49%">
+</p>
+
+</details>
+
 <details>
 <summary><b>More experiments</b> · data analytics, ML notebooks, networking labs</summary>
 <br>
