@@ -6,13 +6,13 @@
   <img src="https://img.shields.io/badge/ESI--SBA-Engineering_Student-3b8ae6?style=for-the-badge" alt="ESI-SBA">
   <img src="https://img.shields.io/badge/UGRAD-Montevallo_·_GPA_3.75-34d399?style=for-the-badge" alt="UGRAD Montevallo">
   <img src="https://img.shields.io/badge/Languages-AR_·_EN_·_FR-fbbf24?style=for-the-badge" alt="Languages">
-  <img src="https://img.shields.io/badge/Status-Open_to_opportunities-a78bfa?style=for-the-badge" alt="Open to opportunities">
+  <img src="https://img.shields.io/badge/Seeking-Research_Internship-a78bfa?style=for-the-badge" alt="Seeking a research internship">
 </p>
 
 <p align="center"><i>I connect things: networks, sensors, robots, and models.<br>
 Final-year engineering student in Algeria 🇩🇿, with a semester of US campus life 🇺🇸 behind me.</i></p>
 
-<img src="assets/stats.svg" alt="10 live demos · 1.8M+ records modeled · 96.2% fraud model accuracy · GPA 3.75 · 200+ event attendees led" width="100%">
+<img src="assets/stats.svg" alt="10 live demos · 1.8M+ records modeled · 96.2% fraud recall · GPA 3.75 · 200+ event attendees led" width="100%">
 
 <br><br>
 
@@ -33,6 +33,8 @@ Final-year engineering student in Algeria 🇩🇿, with a semester of US campus
 
 <img src="assets/h-02.svg" alt="02 Projects" width="100%">
 
+<img src="assets/sub-research.svg" alt="Research and systems" width="100%">
+
 <a href="https://github.com/fouad3966/Smart-Assistive-Home-System"><img src="assets/c-home.svg" alt="Smart-Assistive-Home-System" width="100%"></a>
 
 <details>
@@ -51,6 +53,36 @@ flowchart LR
 
 </details>
 
+<a href="https://github.com/fouad3966/5G-SliceGuard"><img src="assets/c-5g.svg" alt="5G SliceGuard: ML intrusion detection and automated response for 5G network slices" width="100%"></a>
+<p align="center">
+  <a href="https://fouad3966.github.io/5G-SliceGuard/"><img src="https://img.shields.io/badge/Live_Presentation_&_Dashboard-181717?style=for-the-badge&logo=github&logoColor=white" alt="Live Presentation & Dashboard"></a>
+</p>
+
+<table>
+<tr>
+<td width="50%" align="center">
+  <a href="https://github.com/fouad3966/smart-home-embedded-nodes"><img src="assets/c-embedded.svg" alt="Smart-Home Embedded Nodes" width="100%"></a><br>
+  <a href="https://github.com/fouad3966/smart-home-embedded-nodes#readme"><img src="https://img.shields.io/badge/Read_the_Technical_Report-3b8ae6?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Read the Technical Report"></a>
+</td>
+<td width="50%" align="center">
+  <a href="https://github.com/fouad3966/Bearing_Simulation_PFE"><img src="assets/c-bearing.svg" alt="Bearing Simulation" width="100%"></a><br>
+  <a href="https://bearing-simulation-pfe.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Live Demo"></a>
+</td>
+</tr>
+<tr>
+<td align="center">
+  <a href="https://github.com/fouad3966/ML-pipeline-to-detect-fraudulent-credit-card-transactions"><img src="assets/c-fraud.svg" alt="Fraud Detection Pipeline" width="100%"></a><br>
+  <a href="https://credit-card-fraud-detect-9vsoerj.gamma.site/"><img src="https://img.shields.io/badge/Case_Study-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Case Study"></a>
+</td>
+<td align="center">
+  <a href="https://github.com/fouad3966/Intelligent_Agent_for_Natural_Language_Database_Querying"><img src="assets/c-nl2sql.svg" alt="NL-to-SQL Agent thesis site" width="100%"></a><br>
+  <a href="https://intelligent-agent-for-natural-langu.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"></a>
+</td>
+</tr>
+</table>
+
+<img src="assets/sub-web.svg" alt="Also shipped: web and product" width="100%">
+
 <table>
 <tr>
 <td width="50%" align="center">
@@ -68,34 +100,14 @@ flowchart LR
   <a href="https://ecom-luxecart.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"></a>
 </td>
 <td align="center">
-  <a href="https://github.com/fouad3966/5G-SliceGuard"><img src="assets/c-5g.svg" alt="5G SliceGuard" width="100%"></a><br>
-  <a href="https://fouad3966.github.io/5G-SliceGuard/"><img src="https://img.shields.io/badge/Live_Demo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Live Demo"></a>
-</td>
-</tr>
-<tr>
-<td align="center">
-  <a href="https://175-viral-templates-mx3y.vercel.app/"><img src="assets/c-viral.svg" alt="175 Viral Templates" width="100%"></a><br>
-  <a href="https://175-viral-templates-mx3y.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"></a>
-</td>
-<td align="center">
   <a href="https://digitmake.net/"><img src="assets/c-digitmake.svg" alt="DigitMake" width="100%"></a><br>
   <a href="https://digitmake.net/"><img src="https://img.shields.io/badge/Live_Site-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Site"></a>
 </td>
 </tr>
 <tr>
 <td align="center">
-  <a href="https://github.com/fouad3966/Bearing_Simulation_PFE"><img src="assets/c-bearing.svg" alt="Bearing Simulation" width="100%"></a><br>
-  <a href="https://bearing-simulation-pfe.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Live Demo"></a>
-</td>
-<td align="center">
-  <a href="https://github.com/fouad3966/ML-pipeline-to-detect-fraudulent-credit-card-transactions"><img src="assets/c-fraud.svg" alt="Fraud Detection Pipeline" width="100%"></a><br>
-  <a href="https://credit-card-fraud-detect-9vsoerj.gamma.site/"><img src="https://img.shields.io/badge/Case_Study-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Case Study"></a>
-</td>
-</tr>
-<tr>
-<td align="center">
-  <a href="https://github.com/fouad3966/Intelligent_Agent_for_Natural_Language_Database_Querying"><img src="assets/c-nl2sql.svg" alt="Natural-Language DB Agent" width="100%"></a><br>
-  <a href="https://intelligent-agent-for-natural-langu.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"></a>
+  <a href="https://175-viral-templates-mx3y.vercel.app/"><img src="assets/c-viral.svg" alt="175 Viral Templates" width="100%"></a><br>
+  <a href="https://175-viral-templates-mx3y.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"></a>
 </td>
 <td align="center">
   <a href="https://github.com/fouad3966/project-multimedia---QR-codes"><img src="assets/c-qrcode.svg" alt="QR Code Generator" width="100%"></a><br>
@@ -135,7 +147,7 @@ $ traceroute --story fouad
   6   Algérie Télécom / SONATRACH · 2025        FTTH, MSAN, VLANs, OTDR, firewalls, network migration
   7   GTC · 2025                                60h ML track: fraud detector on 1.8M+ records
   8   Smart-Assistive-Home-System · 2026        Lead dev & architect: home + robot + digital twin
-  9   → you are here                            open to internships, engineering roles, and projects
+  9   → you are here                            open to research internships and engineering projects
 
  trace complete. destination reachable.
 ```
