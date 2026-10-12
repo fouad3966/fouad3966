@@ -162,38 +162,182 @@ $ traceroute --story fouad
 
 <br>
 
+<!-- ═══════════════  PROGRAMMING LANGUAGES  ═══════════════ -->
+<h3>💻 Programming Languages</h3>
+
 <table>
 <tr>
-<td width="170"><b>Languages</b></td>
-<td><img src="https://skillicons.dev/icons?i=py,java,c,js,ts,html,css&theme=dark" alt="Python, Java, C, JavaScript, TypeScript, HTML, CSS"></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=py&theme=dark" width="48" height="48" alt="Python"/><br><sub><b>Python</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" height="48" alt="Java"/><br><sub><b>Java</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="48" height="48" alt="C"/><br><sub><b>C</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" alt="JavaScript"/><br><sub><b>JavaScript</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" height="48" alt="TypeScript"/><br><sub><b>TypeScript</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML5"/><br><sub><b>HTML</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="CSS3"/><br><sub><b>CSS</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48" alt="SQL"/><br><sub><b>SQL</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=bash&theme=dark" width="48" height="48" alt="Bash"/><br><sub><b>Bash</b></sub></td>
+</tr>
+</table>
+
+<!-- ═══════════════  WEB & BACKEND  ═══════════════ -->
+<h3>🌐 Web & Backend</h3>
+
+<table>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React"/><br><sub><b>React</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48" height="48" alt="Next.js"/><br><sub><b>Next.js</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48" alt="Node.js"/><br><sub><b>Node.js</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="48" height="48" alt="Express"/><br><sub><b>Express</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=nestjs&theme=dark" width="48" height="48" alt="NestJS"/><br><sub><b>NestJS</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=prisma&theme=dark" width="48" height="48" alt="Prisma"/><br><sub><b>Prisma</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=flask&theme=dark" width="48" height="48" alt="Flask"/><br><sub><b>Flask</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="48" height="48" alt="Flutter"/><br><sub><b>Flutter</b></sub></td>
 </tr>
 <tr>
-<td><b>Web & backend</b></td>
-<td><img src="https://skillicons.dev/icons?i=react,nodejs,express,nestjs,prisma,flask,flutter&theme=dark" alt="React, Node.js, Express, NestJS, Prisma, Flask, Flutter"></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=graphql&theme=dark" width="48" height="48" alt="GraphQL"/><br><sub><b>GraphQL</b></sub></td>
+<td colspan="7"><code>REST APIs</code> <code>Microservices</code> <code>JWT Authentication</code></td>
+</tr>
+</table>
+
+<!-- ═══════════════  DATABASES  ═══════════════ -->
+<h3>🗄️ Databases</h3>
+
+<table>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" height="48" alt="PostgreSQL"/><br><sub><b>PostgreSQL</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" height="48" alt="MongoDB"/><br><sub><b>MongoDB</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="48" height="48" alt="SQLite"/><br><sub><b>SQLite</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=cassandra&theme=dark" width="48" height="48" alt="Cassandra"/><br><sub><b>Cassandra</b></sub></td>
+<td align="center" width="96"><img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" height="48" alt="Oracle DB"/><br><sub><b>Oracle DB</b></sub></td>
+</tr>
+</table>
+
+<!-- ═══════════════  AI / ML & DATA SCIENCE  ═══════════════ -->
+<h3>🤖 AI, Machine Learning & Data Science</h3>
+
+<table>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="48" height="48" alt="TensorFlow"/><br><sub><b>TensorFlow</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="48" height="48" alt="PyTorch"/><br><sub><b>PyTorch</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="48" height="48" alt="scikit-learn"/><br><sub><b>scikit-learn</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="48" height="48" alt="OpenCV"/><br><sub><b>OpenCV</b></sub></td>
+<td align="center" width="96"><img src="https://img.shields.io/badge/XGBoost-189FDD?style=flat&logo=xgboost&logoColor=white" height="48" alt="XGBoost"/><br><sub><b>XGBoost</b></sub></td>
 </tr>
 <tr>
-<td><b>Databases</b></td>
-<td><img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,cassandra,oracle&theme=dark" alt="PostgreSQL, MongoDB, SQLite, Cassandra, Oracle"></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=pandas&theme=dark" width="48" height="48" alt="Pandas"/><br><sub><b>Pandas</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=numpy&theme=dark" width="48" height="48" alt="NumPy"/><br><sub><b>NumPy</b></sub></td>
+<td align="center" width="96"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white" height="48" alt="Matplotlib"/><br><sub><b>Matplotlib</b></sub></td>
+<td align="center" width="96"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" height="48" alt="Streamlit"/><br><sub><b>Streamlit</b></sub></td>
+<td align="center" width="96"><img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" height="48" alt="Google Colab"/><br><sub><b>Google Colab</b></sub></td>
 </tr>
 <tr>
-<td><b>AI & data science</b></td>
-<td><img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,opencv,powerbi,tensorflow,pytorch,hadoop,kafka&theme=dark" alt="Pandas, NumPy, scikit-learn, OpenCV, Power BI, TensorFlow, PyTorch, Hadoop, Kafka"><br><sub><code>XGBoost</code> <code>Big Data</code> <code>Streamlit</code> <code>Matplotlib</code> <code>Google Colab</code> <code>feature engineering</code></sub></td>
+<td colspan="5"><code>Data Preprocessing</code> <code>Feature Engineering</code> <code>Supervised & Unsupervised Learning</code> <code>Model Training & Evaluation</code> <code>Exploratory Data Analysis</code> <code>Isolation Forest</code> <code>Data-Driven Modeling</code></td>
+</tr>
+</table>
+
+<!-- ═══════════════  BI, AUTOMATION & LOW-CODE  ═══════════════ -->
+<h3>📊 BI, Automation & Productivity</h3>
+
+<table>
+<tr>
+<td align="center" width="96"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" height="48" alt="Power BI"/><br><sub><b>Power BI</b></sub></td>
+<td align="center" width="96"><img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" height="48" alt="Excel"/><br><sub><b>Excel</b></sub></td>
+<td align="center" width="96"><img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" height="48" alt="n8n"/><br><sub><b>n8n</b></sub></td>
+<td align="center" width="96"><img src="https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoftoutlook&logoColor=white" height="48" alt="Outlook"/><br><sub><b>Outlook</b></sub></td>
+<td align="center" width="96"><img src="https://img.shields.io/badge/Teams-6264A7?style=flat&logo=microsoftteams&logoColor=white" height="48" alt="Teams"/><br><sub><b>Teams</b></sub></td>
+<td align="center" width="96"><img src="https://img.shields.io/badge/SharePoint-0078D4?style=flat&logo=microsoftsharepoint&logoColor=white" height="48" alt="SharePoint"/><br><sub><b>SharePoint</b></sub></td>
+<td align="center" width="96"><img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white" height="48" alt="PowerPoint"/><br><sub><b>PowerPoint</b></sub></td>
 </tr>
 <tr>
-<td><b>Tools & OS</b></td>
-<td><img src="https://skillicons.dev/icons?i=linux,docker,git,github,raspberrypi,bash&theme=dark" alt="Linux, Docker, Git, GitHub, Raspberry Pi, Bash"></td>
+<td colspan="7"><code>Dashboards</code> <code>Data Cleaning & Analysis</code> <code>Reporting</code> <code>Workflow Automation</code></td>
+</tr>
+</table>
+
+<!-- ═══════════════  DEVOPS & TOOLS  ═══════════════ -->
+<h3>🛠️ DevOps, Tools & OS</h3>
+
+<table>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" height="48" alt="Linux"/><br><sub><b>Linux</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" alt="Docker"/><br><sub><b>Docker</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git"/><br><sub><b>Git</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub"/><br><sub><b>GitHub</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" width="48" height="48" alt="Raspberry Pi"/><br><sub><b>Raspberry Pi</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="VS Code"/><br><sub><b>VS Code</b></sub></td>
+</tr>
+</table>
+
+<!-- ═══════════════  NETWORKING  ═══════════════ -->
+<h3>🌍 Networking & Infrastructure</h3>
+
+<table>
+<tr>
+<td><b>Routing & Switching</b></td>
+<td><code>OSPF</code> <code>EIGRP</code> <code>RIP</code> <code>Static & Dynamic Routing</code> <code>VLAN</code> <code>NAT/PAT</code> <code>IPv4/IPv6</code> <code>TCP/IP</code> <code>VPN</code> <code>QoS/QoE</code></td>
 </tr>
 <tr>
-<td><b>Networking</b></td>
-<td><code>OSPF</code> <code>EIGRP</code> <code>RIP</code> <code>VLAN</code> <code>NAT/PAT</code> <code>IPv4/IPv6</code> <code>VPN</code> <code>QoS/QoE</code> <code>MQTT</code> <code>REST</code><br><code>Cisco Packet Tracer</code> <code>GNS3</code> <code>Wireshark</code> <code>FTTH</code> <code>MSAN</code> <code>OTDR</code></td>
+<td><b>Protocols & IoT</b></td>
+<td><code>MQTT</code> <code>REST APIs</code> <code>Network Monitoring</code> <code>FTTH</code> <code>MSAN</code> <code>OTDR</code></td>
 </tr>
 <tr>
-<td><b>Design & media</b></td>
-<td><img src="https://skillicons.dev/icons?i=figma,ai,pr,ae&theme=dark" alt="Figma, Illustrator, Premiere Pro, After Effects"></td>
+<td><b>Tools</b></td>
+<td><code>Cisco Packet Tracer</code> <code>GNS3</code> <code>Wireshark</code></td>
+</tr>
+</table>
+
+<!-- ═══════════════  DESIGN & MEDIA  ═══════════════ -->
+<h3>🎨 Design & Media</h3>
+
+<table>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" height="48" alt="Figma"/><br><sub><b>Figma</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=ai&theme=dark" width="48" height="48" alt="Illustrator"/><br><sub><b>Illustrator</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=pr&theme=dark" width="48" height="48" alt="Premiere Pro"/><br><sub><b>Premiere Pro</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=ae&theme=dark" width="48" height="48" alt="After Effects"/><br><sub><b>After Effects</b></sub></td>
+<td align="center" width="96"><img src="https://img.shields.io/badge/CapCut-000000?style=flat&logo=capcut&logoColor=white" height="48" alt="CapCut"/><br><sub><b>CapCut</b></sub></td>
+</tr>
+</table>
+
+<!-- ═══════════════  OPTIMIZATION & MODELING  ═══════════════ -->
+<h3>📐 Optimization & Modeling</h3>
+
+> <code>Operations Research</code> <code>Decision Support</code> <code>Algorithm Design</code> <code>Data-Driven Modeling</code> <code>Heuristic Methods</code>
+
+<!-- ═══════════════  SOFT SKILLS  ═══════════════ -->
+<h3>🗣️ Soft Skills</h3>
+
+> Leadership · Public Speaking · Event Organization · Cross-Cultural Teamwork · Problem Solving · Communication · Fast Learner
+
+<br>
+
+<!-- ═══════════════  CERTIFICATIONS  ═══════════════ -->
+
+<img src="assets/h-04b.svg" alt="04b Certifications" width="100%">
+
+<table>
+<tr>
+<td width="70" align="center">📜</td>
+<td>
+  <b>Data Cleaning</b> — Certificate of Completion<br>
+  <sub>📌 <b>Kaggle</b> · September 2025</sub><br>
+  <a href="assets/Mohamed Fouad Rabahi - Data Cleaning.png"><img src="https://img.shields.io/badge/View_Certificate-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="View Certificate"></a>
+</td>
 </tr>
 <tr>
-<td><b>People skills</b></td>
-<td>Leadership · public speaking · event organization · cross-cultural teamwork</td>
+<td width="70" align="center">🧠</td>
+<td>
+  <b>Getting Started with Deep Learning</b> — Certificate of Competency<br>
+  <sub>📌 <b>NVIDIA Deep Learning Institute</b> · September 2025</sub><br>
+  <a href="assets/NVIDIA_Getting Started with Deep Learning.pdf"><img src="https://img.shields.io/badge/View_Certificate-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="View Certificate"></a>
+</td>
+</tr>
+<tr>
+<td width="70" align="center">🏅</td>
+<td>
+  <b>Machine Learning Track</b> — Certificate of Training<br>
+  <sub>📌 <b>GTC (Global Tech Community)</b> · 2025</sub><br>
+  <a href="assets/GTC Internship Certificate_Mohamed Fouad Rabahi.png"><img src="https://img.shields.io/badge/View_Certificate-3b8ae6?style=for-the-badge&logo=bookstack&logoColor=white" alt="View Certificate"></a>
+</td>
 </tr>
 </table>
 
