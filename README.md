@@ -208,7 +208,7 @@ $ traceroute --story fouad
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" height="48" alt="MongoDB"/><br><sub><b>MongoDB</b></sub></td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="48" height="48" alt="SQLite"/><br><sub><b>SQLite</b></sub></td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cassandra&theme=dark" width="48" height="48" alt="Cassandra"/><br><sub><b>Cassandra</b></sub></td>
-<td align="center" width="96"><img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" height="48" alt="Oracle DB"/><br><sub><b>Oracle DB</b></sub></td>
+<td align="center" width="96"><img src="assets/oracle.svg" width="48" height="48" alt="Oracle DB"/><br><sub><b>Oracle DB</b></sub></td>
 </tr>
 </table>
 
@@ -221,17 +221,15 @@ $ traceroute --story fouad
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="48" height="48" alt="PyTorch"/><br><sub><b>PyTorch</b></sub></td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="48" height="48" alt="scikit-learn"/><br><sub><b>scikit-learn</b></sub></td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="48" height="48" alt="OpenCV"/><br><sub><b>OpenCV</b></sub></td>
-<td align="center" width="96"><img src="https://img.shields.io/badge/XGBoost-189FDD?style=flat&logo=xgboost&logoColor=white" height="48" alt="XGBoost"/><br><sub><b>XGBoost</b></sub></td>
 </tr>
 <tr>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=pandas&theme=dark" width="48" height="48" alt="Pandas"/><br><sub><b>Pandas</b></sub></td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=numpy&theme=dark" width="48" height="48" alt="NumPy"/><br><sub><b>NumPy</b></sub></td>
-<td align="center" width="96"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white" height="48" alt="Matplotlib"/><br><sub><b>Matplotlib</b></sub></td>
-<td align="center" width="96"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" height="48" alt="Streamlit"/><br><sub><b>Streamlit</b></sub></td>
-<td align="center" width="96"><img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" height="48" alt="Google Colab"/><br><sub><b>Google Colab</b></sub></td>
+<td align="center" width="96"><img src="assets/pandas.svg" width="48" height="48" alt="Pandas"/><br><sub><b>Pandas</b></sub></td>
+<td align="center" width="96"><img src="assets/numpy.svg" width="48" height="48" alt="NumPy"/><br><sub><b>NumPy</b></sub></td>
+<td align="center" width="96"><img src="assets/matplotlib.svg" width="48" height="48" alt="Matplotlib"/><br><sub><b>Matplotlib</b></sub></td>
+<td align="center" width="96"><img src="assets/streamlit.svg" width="48" height="48" alt="Streamlit"/><br><sub><b>Streamlit</b></sub></td>
 </tr>
 <tr>
-<td colspan="5"><code>Data Preprocessing</code> <code>Feature Engineering</code> <code>Supervised & Unsupervised Learning</code> <code>Model Training & Evaluation</code> <code>Exploratory Data Analysis</code> <code>Isolation Forest</code> <code>Data-Driven Modeling</code></td>
+<td colspan="4"><code>Data Preprocessing</code> <code>Feature Engineering</code> <code>Exploratory Data Analysis</code> <code>Supervised & Unsupervised Learning</code> <code>Model Training & Evaluation</code> <code>Model Optimization</code> <code>Anomaly Detection</code> <code>XGBoost</code></td>
 </tr>
 </table>
 
@@ -294,7 +292,7 @@ $ traceroute --story fouad
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ai&theme=dark" width="48" height="48" alt="Illustrator"/><br><sub><b>Illustrator</b></sub></td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pr&theme=dark" width="48" height="48" alt="Premiere Pro"/><br><sub><b>Premiere Pro</b></sub></td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ae&theme=dark" width="48" height="48" alt="After Effects"/><br><sub><b>After Effects</b></sub></td>
-<td align="center" width="96"><img src="https://img.shields.io/badge/CapCut-000000?style=flat&logo=capcut&logoColor=white" height="48" alt="CapCut"/><br><sub><b>CapCut</b></sub></td>
+<td align="center" width="96"><img src="assets/capcut.svg" width="48" height="48" alt="CapCut"/><br><sub><b>CapCut</b></sub></td>
 </tr>
 </table>
 
