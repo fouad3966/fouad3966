@@ -39,7 +39,7 @@ Final-year engineering student in Algeria 🇩🇿, with a semester of US campus
 <a href="https://github.com/fouad3966/Smart-Assistive-Home-System"><img src="assets/c-home.svg" alt="Smart-Assistive-Home-System" width="100%"></a>
 
 <details>
-<summary><b>How the capstone fits together</b> (architecture)</summary>
+<summary><b>How the capstone fits together</b> (architecture & mobile app)</summary>
 <br>
 
 ```mermaid
@@ -52,12 +52,20 @@ flowchart LR
     R["🤖 Robot · Raspberry Pi 3<br/>SLAM · OpenCV HSV detection<br/>servo-kinematics arm"]
 ```
 
+<br>
+<p align="center"><b>Mobile Control & Real-time Telemetry (Flutter App)</b></p>
+<div align="center">
+  <img src="assets/smart-home-app.png" width="31%" alt="Smart Home Navigation App">&nbsp;
+  <img src="assets/smart-home-sensors.png" width="31%" alt="Real-time Sensor Monitoring">&nbsp;
+  <img src="assets/smart-home-settings.png" width="31%" alt="Robot Alignment & Device Settings">
+</div>
+
 </details>
 
 <a href="https://github.com/fouad3966/Thirduni---Designili"><img src="assets/c-designili.svg" alt="Designili 3D Studio: Browser-native fashion engineering with generative AI textiles, 3D PBR simulation, Algerian Darja NLP, and on-device virtual try-on" width="100%"></a>
 
 <details>
-<summary><b>How Designili connects AI, 3D and NLP</b> (architecture)</summary>
+<summary><b>How Designili connects AI, 3D and NLP</b> (architecture & previews)</summary>
 <br>
 
 ```mermaid
@@ -84,6 +92,13 @@ graph TD
     E --> E3["100% Client-Side Privacy"]
 ```
 
+<br>
+<p align="center"><b>Generative AI Darja Extraction & Production TechPack Export</b></p>
+<div align="center">
+  <img src="assets/designili-darja.png" width="49%" alt="Darja NLP Motif Generation">&nbsp;
+  <img src="assets/designili-techpack.png" width="49%" alt="Automated Production TechPack Export">
+</div>
+
 </details>
 
 <a href="https://github.com/fouad3966/5G-SliceGuard"><img src="assets/c-5g.svg" alt="5G SliceGuard: ML intrusion detection and automated response for 5G network slices" width="100%"></a>
@@ -100,6 +115,11 @@ graph TD
 <td width="50%" align="center">
   <a href="https://github.com/fouad3966/Bearing_Simulation_PFE"><img src="assets/c-bearing.svg" alt="Bearing Simulation" width="100%"></a><br>
   <a href="https://bearing-simulation-pfe.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Live Demo"></a>
+  <details>
+    <summary>📸 <b>Preview Simulation UI</b></summary>
+    <br>
+    <img src="assets/mockup_Bearing_simulation.png" width="100%" alt="Bearing Fault Simulator UI">
+  </details>
 </td>
 </tr>
 <tr>
@@ -121,26 +141,51 @@ graph TD
 <td width="50%" align="center">
   <a href="https://github.com/fouad3966/HeurSup"><img src="assets/c-heursup.svg" alt="HeurSup" width="100%"></a><br>
   <a href="https://heur-sup.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"></a>
+  <details>
+    <summary>📸 <b>Preview Dashboard & Reports</b></summary>
+    <br>
+    <img src="assets/heursup-calendar.png" width="49%" alt="HeurSup Calendar Schedule">&nbsp;<img src="assets/heursup-report.png" width="49%" alt="HeurSup Overtime Calculation Report">
+  </details>
 </td>
 <td width="50%" align="center">
   <a href="https://github.com/fouad3966/apex-athletics"><img src="assets/c-apex.svg" alt="Apex Athletics" width="100%"></a><br>
   <a href="https://fouad3966.github.io/apex-athletics"><img src="https://img.shields.io/badge/Live_Demo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Live Demo"></a>
+  <details>
+    <summary>📸 <b>Preview Web App & Programs</b></summary>
+    <br>
+    <img src="assets/mockup_Apex_athletics.png" width="49%" alt="Apex Athletics Home Mockup">&nbsp;<img src="assets/apex-programs.png" width="49%" alt="Apex Athletics Programs">
+  </details>
 </td>
 </tr>
 <tr>
 <td align="center">
   <a href="https://github.com/fouad3966/Ecom_Luxecart"><img src="assets/c-luxecart.svg" alt="LuxeCart" width="100%"></a><br>
   <a href="https://ecom-luxecart.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"></a>
+  <details>
+    <summary>📸 <b>Preview Storefront & Admin Portal</b></summary>
+    <br>
+    <img src="assets/mockup_Luxecart.png" width="49%" alt="LuxeCart Storefront Mockup">&nbsp;<img src="assets/luxecart-admin.png" width="49%" alt="LuxeCart Admin Inventory">
+  </details>
 </td>
 <td align="center">
   <a href="https://digitmake.net/"><img src="assets/c-digitmake.svg" alt="DigitMake" width="100%"></a><br>
   <a href="https://digitmake.net/"><img src="https://img.shields.io/badge/Live_Site-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Site"></a>
+  <details>
+    <summary>📸 <b>Preview Platform Interface</b></summary>
+    <br>
+    <img src="assets/mockup_Digitmake.png" width="100%" alt="DigitMake Platform Mockup">
+  </details>
 </td>
 </tr>
 <tr>
 <td align="center">
   <a href="https://175-viral-templates-mx3y.vercel.app/"><img src="assets/c-viral.svg" alt="175 Viral Templates" width="100%"></a><br>
   <a href="https://175-viral-templates-mx3y.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"></a>
+  <details>
+    <summary>📸 <b>Preview Checkout & Product</b></summary>
+    <br>
+    <img src="assets/viral-payment.png" width="60%" alt="Viral Templates Checkout">
+  </details>
 </td>
 <td align="center">
   <a href="https://github.com/fouad3966/project-multimedia---QR-codes"><img src="assets/c-qrcode.svg" alt="QR Code Generator" width="100%"></a><br>
@@ -192,7 +237,7 @@ graph TD
 | **2023–24** | GDSC ESI-SBA · Vice President | Organized 4 events for 200+ participants, grew membership ~15% |
 | **2024** | University of Montevallo, USA | UGRAD exchange semester — **GPA 3.75**, Dean's List, IT helpdesk |
 | **2025** | Algérie Télécom / SONATRACH | FTTH deployment, MSAN configuration, VLANs, OTDR, firewall migration |
-| **2025** | GTC — ML Track | 60-hour intensive: end-to-end fraud detection pipeline on 1.8M+ records |
+| **2025** | GTC — ML Track | 60-hour intensive: end-to-end financial transaction anomaly detection pipeline |
 | **2025** | Designili 3D Studio · Thirduni | Fashion engineering platform: generative AI, 3D simulation, Darja NLP |
 | **2026** | Smart-Assistive-Home-System | Lead developer & architect: home automation + robot + digital twin |
 | **Now** | _Open to opportunities_ | Seeking research internships and applied engineering positions |
@@ -202,7 +247,7 @@ graph TD
 <img src="assets/h-04.svg" alt="04 Stack" width="100%">
 
 <div align="center">
-  <img src="assets/marquee.svg" alt="Skills: Python, Java, C, TypeScript, React, NestJS, PostgreSQL, MongoDB, Docker, OSPF, EIGRP, VLAN, MQTT, XGBoost, TensorFlow, OpenCV and more" width="100%">
+  <img src="assets/marquee.svg" alt="Skills: Python, Java, C, TypeScript, React, NestJS, PostgreSQL, MongoDB, Docker, OSPF, EIGRP, VLAN, MQTT, TensorFlow, OpenCV, scikit-learn and more" width="100%">
 </div>
 
 <br>
@@ -274,7 +319,7 @@ graph TD
 <td align="center" width="96"><img src="assets/streamlit.svg" width="48" height="48" alt="Streamlit"/><br><sub><b>Streamlit</b></sub></td>
 </tr>
 <tr>
-<td colspan="4"><code>Data Preprocessing</code> <code>Feature Engineering</code> <code>Exploratory Data Analysis</code> <code>Supervised & Unsupervised Learning</code> <code>Model Training & Evaluation</code> <code>Model Optimization</code> <code>Anomaly Detection</code> <code>XGBoost</code></td>
+<td colspan="4"><code>Data Preprocessing</code> <code>Feature Engineering</code> <code>Exploratory Data Analysis</code> <code>Supervised & Unsupervised Learning</code> <code>Model Training & Evaluation</code> <code>Model Optimization</code> <code>Anomaly Detection</code> <code>Gradient Boosting</code> <code>Ensemble Methods</code></td>
 </tr>
 </table>
 
