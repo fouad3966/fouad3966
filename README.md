@@ -19,12 +19,13 @@ Final-year engineering student in Algeria 🇩🇿, with a semester of US campus
 <img src="assets/h-01.svg" alt="01 Showreel" width="100%">
 
 <div align="center">
-  <img src="assets/showreel.svg?v=3" alt="Showreel: Bearing Simulation, Designili 3D Studio, Smart Assistive Home System, Apex Athletics, LuxeCart, DigitMake" width="100%">
+  <img src="assets/showreel.svg?v=4" alt="Showreel: Bearing Simulation, Designili 3D Studio, 5G SliceGuard, Smart Assistive Home System, Apex Athletics, LuxeCart, DigitMake" width="100%">
 </div>
 
 <p align="center">
   <a href="https://bearing-simulation-pfe.onrender.com/"><img src="https://img.shields.io/badge/Bearing_Simulation-open_app-3b8ae6?style=flat-square&logo=render&logoColor=white" alt="Bearing Simulation"></a>
   <a href="https://github.com/fouad3966/Thirduni---Designili"><img src="https://img.shields.io/badge/Designili_3D-open_repo-818cf8?style=flat-square&logo=github&logoColor=white" alt="Designili 3D Studio"></a>
+  <a href="https://fouad3966.github.io/5G-SliceGuard/"><img src="https://img.shields.io/badge/5G_SliceGuard-open_demo-f43f5e?style=flat-square&logo=github&logoColor=white" alt="5G SliceGuard"></a>
   <a href="https://github.com/fouad3966/Smart-Assistive-Home-System"><img src="https://img.shields.io/badge/Smart_Home-open_repo-38bdf8?style=flat-square&logo=github&logoColor=white" alt="Smart Assistive Home System"></a>
   <a href="https://fouad3966.github.io/apex-athletics"><img src="https://img.shields.io/badge/Apex_Athletics-open_site-fbbf24?style=flat-square&logo=github&logoColor=white" alt="Apex Athletics"></a>
   <a href="https://ecom-luxecart.vercel.app/"><img src="https://img.shields.io/badge/LuxeCart-open_site-a78bfa?style=flat-square&logo=vercel&logoColor=white" alt="LuxeCart"></a>
@@ -106,6 +107,13 @@ graph TD
 <p align="center">
   <a href="https://fouad3966.github.io/5G-SliceGuard/"><img src="https://img.shields.io/badge/Live_Presentation_&_Dashboard-181717?style=for-the-badge&logo=github&logoColor=white" alt="Live Presentation & Dashboard"></a>
 </p>
+<details>
+  <summary>📸 <b>Preview Live Defense Lab Dashboard</b></summary>
+  <br>
+  <div align="center">
+    <img src="assets/mockup_5g_sliceguard.png" width="100%" alt="5G SliceGuard Defense Lab Dashboard">
+  </div>
+</details>
 
 <table>
 <tr>
