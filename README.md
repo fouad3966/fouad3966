@@ -12,7 +12,7 @@
 <p align="center"><i>I connect things: networks, sensors, robots, and models.<br>
 Final-year engineering student in Algeria 🇩🇿, with a semester of US campus life 🇺🇸 behind me.</i></p>
 
-<img src="assets/stats.svg" alt="10 live demos · 1.8M+ records modeled · 96.2% fraud recall · GPA 3.75 · 200+ event attendees led" width="100%">
+<img src="assets/stats.svg" alt="11 live projects · 1.8M+ data points processed · 6 garment types simulated · GPA 3.75 · 200+ event attendees led" width="100%">
 
 <br><br>
 
@@ -27,6 +27,7 @@ Final-year engineering student in Algeria 🇩🇿, with a semester of US campus
   <a href="https://ecom-luxecart.vercel.app/"><img src="https://img.shields.io/badge/LuxeCart-open_site-a78bfa?style=flat-square&logo=vercel&logoColor=white" alt="LuxeCart"></a>
   <a href="https://fouad3966.github.io/apex-athletics"><img src="https://img.shields.io/badge/Apex_Athletics-open_site-fbbf24?style=flat-square&logo=github&logoColor=white" alt="Apex Athletics"></a>
   <a href="https://bearing-simulation-pfe.onrender.com/"><img src="https://img.shields.io/badge/Bearing_Simulation-open_app-3b8ae6?style=flat-square&logo=render&logoColor=white" alt="Bearing Simulation"></a>
+  <a href="https://github.com/fouad3966/Thirduni---Designili"><img src="https://img.shields.io/badge/Designili_3D-open_repo-7c3aed?style=flat-square&logo=github&logoColor=white" alt="Designili 3D Studio"></a>
 </p>
 
 <br>
@@ -49,6 +50,38 @@ flowchart LR
     B{{"NestJS microservices<br/>JWT · MongoDB"}} <-->|MQTT| R
     B --> L["📍 Indoor localization<br/>ML engine"]
     R["🤖 Robot · Raspberry Pi 3<br/>SLAM · OpenCV HSV detection<br/>servo-kinematics arm"]
+```
+
+</details>
+
+<a href="https://github.com/fouad3966/Thirduni---Designili"><img src="assets/c-designili.svg" alt="Designili 3D Studio: Browser-native fashion engineering with generative AI textiles, 3D PBR simulation, Algerian Darja NLP, and on-device virtual try-on" width="100%"></a>
+
+<details>
+<summary><b>How Designili connects AI, 3D and NLP</b> (architecture)</summary>
+<br>
+
+```mermaid
+graph TD
+    A["Designili 3D Atelier"] --> B["1. 3D Simulation & Decals"]
+    A --> C["2. AI Textile Studio"]
+    A --> D["3. Algerian Darja NLP"]
+    A --> E["4. In-Browser Wear-It"]
+
+    B --> B1["Three.js PBR Shading"]
+    B --> B2["Dynamic Canvas Text Decals"]
+    B --> B3["Multi-Garment Library"]
+
+    C --> C1["FLUX.1 Schnell ZeroGPU"]
+    C --> C2["Flat Textile Prompting"]
+    C --> C3["Harmonized Color Extraction"]
+
+    D --> D1["Arabizi Phonetic Normalizer"]
+    D --> D2["Cultural Motif Extraction"]
+    D --> D3["Zero-Cost Offline Lexicon"]
+
+    E --> E1["MediaPipe Pose WASM"]
+    E --> E2["Dedicated Web Worker"]
+    E --> E3["100% Client-Side Privacy"]
 ```
 
 </details>
@@ -117,16 +150,33 @@ flowchart LR
 </table>
 
 <details>
-<summary><b>More experiments</b> · data analytics, ML notebooks, networking labs</summary>
+<summary><b>More projects</b> — data analytics, predictive modeling, networking</summary>
 <br>
 
-- [`TCP-Client-Server`](https://github.com/fouad3966/TCP-Client-Server): Python sockets with a Gradio interface
-- [`diabetes-ml-prediction`](https://github.com/fouad3966/diabetes-ml-prediction): Logistic Regression, Random Forest, SVM with GridSearchCV
-- [`Housing-Price-Prediction`](https://github.com/fouad3966/Housing-Price-Prediction): tuned Random Forest
-- [`gtc-ml-project1-hotel-bookings`](https://github.com/fouad3966/gtc-ml-project1-hotel-bookings): cleaning, feature engineering, preprocessing pipeline
-- [`DA-Churn-Prediction-for-StreamWorks-Media`](https://github.com/fouad3966/DA-Churn-Prediction-for-StreamWorks-Media) · [`DA-Business-Intelligence-Dashboard-for-TechHub-Retail`](https://github.com/fouad3966/DA-Business-Intelligence-Dashboard-for-TechHub-Retail) · [`DA-green-cart-sales-customer-insights`](https://github.com/fouad3966/DA-green-cart-sales-customer-insights) · [`DA-customer-signup-analysis`](https://github.com/fouad3966/DA-customer-signup-analysis)
-- [`IoT-Network-Anomaly-Detection`](https://github.com/fouad3966/IoT-Network-Anomaly-Detection): ML models for detecting anomalies in IoT networks
-- [`2CS_S2_Modules_Revision`](https://github.com/fouad3966/2CS_S2_Modules_Revision): revision guides for fellow students
+**Data Analytics & Business Intelligence**
+
+| Project | Focus |
+|---------|-------|
+| [`DA-Churn-Prediction-for-StreamWorks-Media`](https://github.com/fouad3966/DA-Churn-Prediction-for-StreamWorks-Media) | Subscriber churn modeling with feature importance analysis and retention strategy recommendations |
+| [`DA-Business-Intelligence-Dashboard-for-TechHub-Retail`](https://github.com/fouad3966/DA-Business-Intelligence-Dashboard-for-TechHub-Retail) | End-to-end BI dashboard: sales KPIs, inventory turnover, regional performance segmentation |
+| [`DA-green-cart-sales-customer-insights`](https://github.com/fouad3966/DA-green-cart-sales-customer-insights) | Customer behavior analysis with cohort segmentation and CLV estimation |
+| [`DA-customer-signup-analysis`](https://github.com/fouad3966/DA-customer-signup-analysis) | Funnel analysis and signup conversion optimization |
+
+**Predictive Modeling & ML**
+
+| Project | Focus |
+|---------|-------|
+| [`diabetes-ml-prediction`](https://github.com/fouad3966/diabetes-ml-prediction) | Comparative study: Logistic Regression, Random Forest, SVM with GridSearchCV hyperparameter tuning |
+| [`Housing-Price-Prediction`](https://github.com/fouad3966/Housing-Price-Prediction) | Feature-engineered Random Forest pipeline for real estate price estimation |
+| [`gtc-ml-project1-hotel-bookings`](https://github.com/fouad3966/gtc-ml-project1-hotel-bookings) | Full preprocessing pipeline: missing data imputation, feature encoding, class balancing |
+| [`IoT-Network-Anomaly-Detection`](https://github.com/fouad3966/IoT-Network-Anomaly-Detection) | Anomaly detection models for IoT network traffic classification |
+
+**Networking & Utilities**
+
+| Project | Focus |
+|---------|-------|
+| [`TCP-Client-Server`](https://github.com/fouad3966/TCP-Client-Server) | Socket programming with a Gradio-based interactive interface |
+| [`2CS_S2_Modules_Revision`](https://github.com/fouad3966/2CS_S2_Modules_Revision) | Collaborative revision guides for ESI-SBA students |
 
 </details>
 
@@ -134,23 +184,18 @@ flowchart LR
 
 <img src="assets/h-03.svg" alt="03 Journey" width="100%">
 
-```text
-$ traceroute --story fouad
-
- hop  where                                     what happened
- ───  ────────────────────────────────────────  ──────────────────────────────────────────────
-  1   Lycée Technique, Algeria · 2021           Technical Maths bac, 18.27/20, top of class
-  2   Algerian Youth Leadership Program · 2020  First time building things across borders
-  3   ESI-SBA · 2021 → now                      Engineering degree: AI, systems, networks, OS
-  4   GDSC ESI-SBA · 2023–24                    Vice President: 4 events, 200+ people, +15% members
-  5   Univ. of Montevallo, USA · 2024           UGRAD exchange, GPA 3.75, Dean's List, IT helpdesk
-  6   Algérie Télécom / SONATRACH · 2025        FTTH, MSAN, VLANs, OTDR, firewalls, network migration
-  7   GTC · 2025                                60h ML track: fraud detector on 1.8M+ records
-  8   Smart-Assistive-Home-System · 2026        Lead dev & architect: home + robot + digital twin
-  9   → you are here                            open to research internships and engineering projects
-
- trace complete. destination reachable.
-```
+| Year | Milestone | Highlights |
+|:----:|-----------|------------|
+| **2020** | Algerian Youth Leadership Program | First cross-border collaboration experience |
+| **2021** | Lycée Technique, Algeria | Technical Maths baccalauréat — **18.27/20**, top of class |
+| **2021 →** | ESI-SBA | Engineering degree in AI, Systems, Networks and OS |
+| **2023–24** | GDSC ESI-SBA · Vice President | Organized 4 events for 200+ participants, grew membership ~15% |
+| **2024** | University of Montevallo, USA | UGRAD exchange semester — **GPA 3.75**, Dean's List, IT helpdesk |
+| **2025** | Algérie Télécom / SONATRACH | FTTH deployment, MSAN configuration, VLANs, OTDR, firewall migration |
+| **2025** | GTC — ML Track | 60-hour intensive: end-to-end fraud detection pipeline on 1.8M+ records |
+| **2025** | Designili 3D Studio · Thirduni | Fashion engineering platform: generative AI, 3D simulation, Darja NLP |
+| **2026** | Smart-Assistive-Home-System | Lead developer & architect: home automation + robot + digital twin |
+| **Now** | _Open to opportunities_ | Seeking research internships and applied engineering positions |
 
 <br>
 
@@ -261,7 +306,6 @@ $ traceroute --story fouad
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git"/><br><sub><b>Git</b></sub></td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub"/><br><sub><b>GitHub</b></sub></td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" width="48" height="48" alt="Raspberry Pi"/><br><sub><b>Raspberry Pi</b></sub></td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="VS Code"/><br><sub><b>VS Code</b></sub></td>
 </tr>
 </table>
 
