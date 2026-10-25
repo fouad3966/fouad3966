@@ -19,7 +19,7 @@ Final-year engineering student in Algeria 🇩🇿, with a semester of US campus
 <img src="assets/h-01.svg" alt="01 Showreel" width="100%">
 
 <div align="center">
-  <img src="assets/showreel.svg" alt="Showreel: DigitMake, Designili 3D Studio, LuxeCart, Smart Assistive Home System, Apex Athletics, Bearing Simulation" width="100%">
+  <img src="assets/showreel.svg?v=2" alt="Showreel: DigitMake, Designili 3D Studio, LuxeCart, Smart Assistive Home System, Apex Athletics, Bearing Simulation" width="100%">
 </div>
 
 <p align="center">
