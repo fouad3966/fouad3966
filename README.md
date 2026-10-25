@@ -19,16 +19,16 @@ Final-year engineering student in Algeria 🇩🇿, with a semester of US campus
 <img src="assets/h-01.svg" alt="01 Showreel" width="100%">
 
 <div align="center">
-  <img src="assets/showreel.svg?v=2" alt="Showreel: DigitMake, Designili 3D Studio, LuxeCart, Smart Assistive Home System, Apex Athletics, Bearing Simulation" width="100%">
+  <img src="assets/showreel.svg?v=3" alt="Showreel: Bearing Simulation, Designili 3D Studio, Smart Assistive Home System, Apex Athletics, LuxeCart, DigitMake" width="100%">
 </div>
 
 <p align="center">
-  <a href="https://digitmake.net/"><img src="https://img.shields.io/badge/DigitMake-open_site-34d399?style=flat-square&logo=googlechrome&logoColor=white" alt="DigitMake"></a>
+  <a href="https://bearing-simulation-pfe.onrender.com/"><img src="https://img.shields.io/badge/Bearing_Simulation-open_app-3b8ae6?style=flat-square&logo=render&logoColor=white" alt="Bearing Simulation"></a>
   <a href="https://github.com/fouad3966/Thirduni---Designili"><img src="https://img.shields.io/badge/Designili_3D-open_repo-818cf8?style=flat-square&logo=github&logoColor=white" alt="Designili 3D Studio"></a>
-  <a href="https://ecom-luxecart.vercel.app/"><img src="https://img.shields.io/badge/LuxeCart-open_site-a78bfa?style=flat-square&logo=vercel&logoColor=white" alt="LuxeCart"></a>
   <a href="https://github.com/fouad3966/Smart-Assistive-Home-System"><img src="https://img.shields.io/badge/Smart_Home-open_repo-38bdf8?style=flat-square&logo=github&logoColor=white" alt="Smart Assistive Home System"></a>
   <a href="https://fouad3966.github.io/apex-athletics"><img src="https://img.shields.io/badge/Apex_Athletics-open_site-fbbf24?style=flat-square&logo=github&logoColor=white" alt="Apex Athletics"></a>
-  <a href="https://bearing-simulation-pfe.onrender.com/"><img src="https://img.shields.io/badge/Bearing_Simulation-open_app-3b8ae6?style=flat-square&logo=render&logoColor=white" alt="Bearing Simulation"></a>
+  <a href="https://ecom-luxecart.vercel.app/"><img src="https://img.shields.io/badge/LuxeCart-open_site-a78bfa?style=flat-square&logo=vercel&logoColor=white" alt="LuxeCart"></a>
+  <a href="https://digitmake.net/"><img src="https://img.shields.io/badge/DigitMake-open_site-34d399?style=flat-square&logo=googlechrome&logoColor=white" alt="DigitMake"></a>
 </p>
 
 <br>
@@ -94,10 +94,10 @@ graph TD
 ```
 
 <br>
-<p align="center"><b>Generative AI Darja Extraction & Production TechPack Export</b></p>
+<p align="center"><b>Generative AI Darja Extraction & Real-time 3D Garment Simulation</b></p>
 <div align="center">
   <img src="assets/designili-darja.png" width="49%" alt="Darja NLP Motif Generation">&nbsp;
-  <img src="assets/designili-techpack.png" width="49%" alt="Automated Production TechPack Export">
+  <img src="assets/mockup_hoodie.png" width="49%" alt="Real-time 3D Hoodie Simulation">
 </div>
 
 </details>
