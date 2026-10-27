@@ -19,7 +19,7 @@ Final-year engineering student in Algeria 🇩🇿, with a semester of US campus
 <img src="assets/h-01.svg" alt="01 Showreel" width="100%">
 
 <div align="center">
-  <img src="assets/showreel.svg?v=4" alt="Showreel: Bearing Simulation, Designili 3D Studio, 5G SliceGuard, Smart Assistive Home System, Apex Athletics, LuxeCart, DigitMake" width="100%">
+  <img src="assets/showreel.svg?v=5" alt="Showreel: Bearing Simulation, Designili 3D Studio, 5G SliceGuard, Smart Assistive Home System, First Global Challenge, Apex Athletics, LuxeCart, DigitMake" width="100%">
 </div>
 
 <p align="center">
@@ -27,7 +27,8 @@ Final-year engineering student in Algeria 🇩🇿, with a semester of US campus
   <a href="https://github.com/fouad3966/Thirduni---Designili"><img src="https://img.shields.io/badge/Designili_3D-open_repo-818cf8?style=flat-square&logo=github&logoColor=white" alt="Designili 3D Studio"></a>
   <a href="https://fouad3966.github.io/5G-SliceGuard/"><img src="https://img.shields.io/badge/5G_SliceGuard-open_demo-f43f5e?style=flat-square&logo=github&logoColor=white" alt="5G SliceGuard"></a>
   <a href="https://github.com/fouad3966/Smart-Assistive-Home-System"><img src="https://img.shields.io/badge/Smart_Home-open_repo-38bdf8?style=flat-square&logo=github&logoColor=white" alt="Smart Assistive Home System"></a>
-  <a href="https://fouad3966.github.io/apex-athletics"><img src="https://img.shields.io/badge/Apex_Athletics-open_site-fbbf24?style=flat-square&logo=github&logoColor=white" alt="Apex Athletics"></a>
+  <a href="#05-field-notes"><img src="https://img.shields.io/badge/FGC_Robot-finalist_2022-fbbf24?style=flat-square&logo=robotframework&logoColor=white" alt="First Global Challenge Robot"></a>
+  <a href="https://fouad3966.github.io/apex-athletics"><img src="https://img.shields.io/badge/Apex_Athletics-open_site-f59e0b?style=flat-square&logo=github&logoColor=white" alt="Apex Athletics"></a>
   <a href="https://ecom-luxecart.vercel.app/"><img src="https://img.shields.io/badge/LuxeCart-open_site-a78bfa?style=flat-square&logo=vercel&logoColor=white" alt="LuxeCart"></a>
   <a href="https://digitmake.net/"><img src="https://img.shields.io/badge/DigitMake-open_site-34d399?style=flat-square&logo=googlechrome&logoColor=white" alt="DigitMake"></a>
 </p>
@@ -41,7 +42,7 @@ Final-year engineering student in Algeria 🇩🇿, with a semester of US campus
 <a href="https://github.com/fouad3966/Smart-Assistive-Home-System"><img src="assets/c-home.svg" alt="Smart-Assistive-Home-System" width="100%"></a>
 
 <details>
-<summary><b>How the capstone fits together</b> (architecture & mobile app)</summary>
+<summary><b>How the capstone fits together</b> (architecture, autonomous robot & mobile app)</summary>
 <br>
 
 ```mermaid
@@ -53,6 +54,12 @@ flowchart LR
     B --> L["📍 Indoor localization<br/>ML engine"]
     R["🤖 Robot · Raspberry Pi 3<br/>SLAM · OpenCV HSV detection<br/>servo-kinematics arm"]
 ```
+
+<br>
+<p align="center"><b>Autonomous Object Retrieval Robot (Raspberry Pi 3B, 4-DOF Arm & SLAM Navigation)</b></p>
+<div align="center">
+  <img src="assets/mockup_smart_car.png" width="95%" alt="Smart Assistive Home System Autonomous Robot Car">
+</div>
 
 <br>
 <p align="center"><b>Mobile Control & Real-time Telemetry (Flutter App)</b></p>
@@ -441,7 +448,14 @@ graph TD
 
 <img src="assets/h-05.svg" alt="05 Field notes" width="100%">
 
-- 🤖 **Finalist**, First Global Robotics Competition, Switzerland (2022)
+- 🤖 **Finalist**, First Global Robotics Competition, Geneva Switzerland (2022) — *Team Algeria driver & mechanism designer*
+  <details>
+    <summary>📸 <b>Preview FGC Competition Robot CAD & Mechanisms</b></summary>
+    <br>
+    <div align="center">
+      <img src="assets/mockup_fgc_robot.png" width="85%" alt="First Global Challenge 2022 Team Algeria Competition Robot">
+    </div>
+  </details>
 - 🥉 **Bronze**, Grand Challenge Award, Team Algeria (2020)
 - 🥈 **Silver**, National Mathematics Olympiad (2021)
 - 🎤 **VP, Google Developers Student Club ESI-SBA**: 4 events, 200+ participants, membership up ~15%
